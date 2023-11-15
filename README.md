@@ -27,9 +27,11 @@ PUT /api/v1/articles/{id}: Mettre à jour un article par ID.
 
 DELETE /api/v1/articles/{id}: Supprimer un article par ID.
 
+GET  /api/v1/articles/categories : Récupérer les article d'une categorie.
+
 GET /api/v1/categories: Récupérer toutes les catégories.
 
-GET /api/v1/categorie/{{categorieId}}/sous-categoriesarticles : Récupérer toutes les souscatégories d'une categorie et c'est article
+GET /api/v1/categorie/{{categorieId}}/sous-categoriesarticles : Récupérer toutes les souscatégories d'une categorie et c'est article.
 
 GET /api/v1/categories/{id}: Récupérer une catégorie par ID.
 
@@ -52,5 +54,9 @@ DELETE /api/v1/categories/{id}: Supprimer une catégorie par ID.
 <img width="758" alt="image" src="https://github.com/NassimaOuardine/OuardineControlJEE/assets/147509426/b53a5888-d39e-4db6-ba32-914067f3f07b"/>
 
 <img width="835" alt="image" src="https://github.com/NassimaOuardine/OuardineControlJEE/assets/147509426/73cec34b-39d3-43cc-90f7-3e5a684f7009"/>
-<img width="820" alt="image" src="https://github.com/NassimaOuardine/OuardineControlJEE/assets/147509426/a47aa893-f9e4-48f7-9141-1dbfe3e85e10"/>
+#### Q7
+<img width="820" alt="image" src="https://github.com/NassimaOuardine/OuardineControlJEE/assets/147509426/a47aa893-f9e4-48f7-9141-1dbfe3e85e10"/
+#### Q9
+<img width="820" alt="image" src="https://github.com/NassimaOuardine/OuardineControlJEE/assets/147509426/ba39fa46-f146-4142-86bd-f9cbf2480602"/>
+
 
