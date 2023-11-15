@@ -28,7 +28,7 @@ DELETE /api/v1/articles/{id}: Supprimer un article par ID.
 
 GET /api/v1/categories: Récupérer toutes les catégories.
 
-GET GET http://localhost:8089/api/v1/categorie/{{categorieId}}/sous-categoriesarticles : Récupérer toutes les souscatégories d'une categorie et c'est article
+GET /api/v1/categorie/{{categorieId}}/sous-categoriesarticles : Récupérer toutes les souscatégories d'une categorie et c'est article
 
 GET /api/v1/categories/{id}: Récupérer une catégorie par ID.
 
