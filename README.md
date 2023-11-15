@@ -13,3 +13,4 @@ Spring Boot : Projet du framework Spring, Spring Boot vise à simplifier la conf
 JPA : Java Persistence API (JPA) est une spécification Java décrivant une interface de programmation pour la gestion de la persistance des données dans les applications Java. Elle offre une approche standardisée permettant aux développeurs de créer des applications Java capables de gérer de manière persistante des données relationnelles, simplifiant ainsi les interactions avec les bases de données.
 
 Swagger : Ensemble d'outils open source facilitant la conception, la création, la documentation et la consommation de services web RESTful. Swagger automatise la génération de la documentation de l'API, améliorant la compréhension et l'utilisation des services web par d'autres développeurs. Il permet de décrire de manière claire et concise la structure et les fonctionnalités des API REST.
+## Genration du base de données
