@@ -41,3 +41,15 @@ DELETE /api/v1/categories/{id}: Supprimer une catégorie par ID.
 <img width="885" alt="image" src="https://github.com/NassimaOuardine/OuardineControlJEE/assets/147509426/09796bfd-af9f-4118-b9a3-81919e4bcb43"/>
 ### Test quelque API
 
+<img width="740" alt="image" src="https://github.com/NassimaOuardine/OuardineControlJEE/assets/147509426/7f801862-ba7a-4e95-acc6-d44aef15767a"/>
+
+<img width="664" alt="image" src="https://github.com/NassimaOuardine/OuardineControlJEE/assets/147509426/98b6e02d-79ed-4639-a3bc-cbe4fcfec275"/>
+<img width="663" alt="image" src="https://github.com/NassimaOuardine/OuardineControlJEE/assets/147509426/2aa0d177-b7d7-40c5-b517-e366cbc795ed"/>
+<img width="786" alt="image" src="https://github.com/NassimaOuardine/OuardineControlJEE/assets/147509426/2b45a18b-fa06-4075-a513-0fc10bddf101"/>
+
+<img width="773" alt="image" src="https://github.com/NassimaOuardine/OuardineControlJEE/assets/147509426/8b54a445-312f-45bd-b258-a088ba5cdf70"/>
+<img width="758" alt="image" src="https://github.com/NassimaOuardine/OuardineControlJEE/assets/147509426/b53a5888-d39e-4db6-ba32-914067f3f07b"/>
+
+<img width="835" alt="image" src="https://github.com/NassimaOuardine/OuardineControlJEE/assets/147509426/73cec34b-39d3-43cc-90f7-3e5a684f7009"/>
+<img width="820" alt="image" src="https://github.com/NassimaOuardine/OuardineControlJEE/assets/147509426/a47aa893-f9e4-48f7-9141-1dbfe3e85e10"/>
+
