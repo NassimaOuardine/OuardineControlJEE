@@ -38,4 +38,6 @@ PUT /api/v1/categories/{id}: Mettre à jour une catégorie par ID.
 
 DELETE /api/v1/categories/{id}: Supprimer une catégorie par ID.
 ## Swagger
+<img width="885" alt="image" src="https://github.com/NassimaOuardine/OuardineControlJEE/assets/147509426/09796bfd-af9f-4118-b9a3-81919e4bcb43"/>
+### Test quelque API
 
