@@ -14,3 +14,5 @@ JPA : Java Persistence API (JPA) est une spécification Java décrivant une inte
 
 Swagger : Ensemble d'outils open source facilitant la conception, la création, la documentation et la consommation de services web RESTful. Swagger automatise la génération de la documentation de l'API, améliorant la compréhension et l'utilisation des services web par d'autres développeurs. Il permet de décrire de manière claire et concise la structure et les fonctionnalités des API REST.
 ## Genration du base de données
+<img width="570" alt="image" src="https://github.com/NassimaOuardine/OuardineControlJEE/assets/147509426/2f141829-cfb5-47bb-92ad-2c967b326944">
+## Endpoints
